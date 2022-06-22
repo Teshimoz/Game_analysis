@@ -13,4 +13,4 @@ Notebook include following steps:
     * plotting graphs and heat maps of retention (in absolute values and normalized)
     * statisctical tests between groups after normalization<br>
     
-<br>Used pandas, matplotlib, scipy, statsmodels.
+Used pandas, matplotlib, scipy, statsmodels for TSA.
