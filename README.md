@@ -1,7 +1,7 @@
 # Game Analysis
 Scripts that analyze user retention, A/B testing, visualizations<br>
 <b>Rendered notebook:</b><br>
-
+https://nbviewer.org/github/Teshimoz/Game_analysis/blob/6e89b9a17fb31fe1309235d5f1e3944ab0512782/Game_retention_ab.ipynb
 <br><br>
 <b>Project description:</b><br>
 There was a deployment of the new mobile game application version. We want to be sure everything working properly and all users can to migrate to the new one.<br>
